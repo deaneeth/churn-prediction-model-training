@@ -18,7 +18,7 @@ This repo covers the complete **model training and evaluation pipeline**, built 
 | Notebook                          | Description                                                                                                                 |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | `0_data_preparation.ipynb`        | Preparing the data for model training and evaluation. It includes loading datasets and applying necessary transformations.  |
-| `**Coming Soon...`                | (Future step) Training and evaluating various machine learning models for churn prediction.                                 |
+| *Coming soon...*                  | (Future step) Training and evaluating various machine learning models for churn prediction.                                 |
 
 ---
 
@@ -28,8 +28,7 @@ This repo covers the complete **model training and evaluation pipeline**, built 
 📂 artifacts/ → Model training results, including training/test data (X, Y) saved as .npz files
 📂 processed/ → Processed data used for model training
 📂 raw/ → Raw input data and initial notebook for data preparation
-📓 0_data_preparation.ipynb → Notebook to prepare data for training and testing
-📄 requirements.txt → List of required libraries for the project
+📓 Notebooks → Notebooks to prepare data for training and testing
 ```
 
 ---
@@ -40,6 +39,8 @@ This repo covers the complete **model training and evaluation pipeline**, built 
 - Matplotlib, Seaborn
 - NumPy
 - Jupyter Notebooks
+
+---
 
 ### 🎯 Goals:
 
@@ -67,6 +68,7 @@ pip install -r requirements.txt
 ```
 
 ---
+
 ## 🌟 Why You’ll Like It:
 
 - 📚 Easy-to-follow structure for model building and evaluation
