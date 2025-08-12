@@ -18,7 +18,8 @@ This repo covers the complete **model training and evaluation pipeline**, built 
 | Notebook                          | Description                                                                                                                 |
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | `0_data_preparation.ipynb`        | Preparing the data for model training and evaluation. It includes loading datasets and applying necessary transformations.  |
-| *Coming soon...*                  | (Future step) Training and evaluating various machine learning models for churn prediction.                                 |
+| `1_base_model_training.ipynb`     | Traning the base machine learning model for the analysis using Logistic regression, and plotting confusion_matrixes.        |
+| *Coming soon...*                  | (Future steps) Validation and evaluating various machine learning models for churn prediction.                              |
 
 ---
 
@@ -28,7 +29,7 @@ This repo covers the complete **model training and evaluation pipeline**, built 
 📂 artifacts/ → Model training results, including training/test data (X, Y) saved as .npz files
 📂 processed/ → Processed data used for model training
 📂 raw/ → Raw input data and initial notebook for data preparation
-📓 Notebooks → Notebooks to prepare data for training and testing
+📓 Notebooks → Notebooks to prepare data for training, testing and evaluation
 ```
 
 ---
