@@ -22,7 +22,7 @@ This repo covers the complete **model training and evaluation pipeline**, built 
 | `2_kfold_validation.ipynb`        | Performing K-Fold cross-validation to evaluate model performance, calculate metrics, and ensure generalization.             |
 | `3_multi_model_training.ipynb`    | Training and evaluating multiple machine learning models to compare performance and select the best approach.               |
 | `4_hyperparameter_tuning.ipynb`   | Optimizing model performance through hyperparameter tuning using search techniques to find the best parameter settings.     |
-| *Coming soon...*                  | (Future steps) Threshold optimizing and evaluating various machine learning models for churn prediction etc.                |
+| `5_threshhold_optimization.ipynb` | Adjusting the classification threshold to improve performance metrics and align predictions with specific objectives.       |
 
 ---
 
