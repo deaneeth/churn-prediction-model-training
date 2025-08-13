@@ -19,7 +19,8 @@ This repo covers the complete **model training and evaluation pipeline**, built 
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | `0_data_preparation.ipynb`        | Preparing the data for model training and evaluation. It includes loading datasets and applying necessary transformations.  |
 | `1_base_model_training.ipynb`     | Traning the base machine learning model for the analysis using Logistic regression, and plotting confusion_matrixes.        |
-| *Coming soon...*                  | (Future steps) Validation and evaluating various machine learning models for churn prediction.                              |
+| `2_kfold_validation.ipynb`        | Performing K-Fold cross-validation to evaluate model performance, calculate metrics, and ensure generalization.             |
+| *Coming soon...*                  | (Future steps) Multi-model training and evaluating various machine learning models for churn prediction.                    |
 
 ---
 
