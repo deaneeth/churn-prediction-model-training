@@ -91,3 +91,7 @@ This repo is updated **weekly**, with new models, evaluation metrics, and result
 ### 👀 Want to continue building real-world models for churn prediction?
 
 You're in the right place! Let's train some powerful models together and predict customer churn like a pro.
+
+---
+
+_Created with ❤️ by [deaneeth](https://github.com/deaneeth)_
